@@ -2,7 +2,7 @@
 2022-05-27
 # Link - Andy Mutuschak - Evergreen Notes
 Status: #Reference
-Tags: #Notes #Evergreen
+Tags: #Notes
 
 - Notes are meant to Evolve and accumulate over time, contributing toward something greater
 - The Notes themselves don't matter but the insights that they prompt, it's the improved thinking that matters
@@ -26,3 +26,5 @@ Link: https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic
 
 ---
 ## Related:
+[[Andy Mutuschak]]
+[[Evergreen Notes Method]]

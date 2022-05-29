@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0804ab78f470be42",
+        "id": "c83f0216556a1fea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7-Assets/Placeholder.md",
+            "file": "3-Main-Archive/Birds and Frogs.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Yearly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-Assets/Placeholder.md",
+                "file": "3-Main-Archive/Birds and Frogs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,23 +99,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0804ab78f470be42",
+  "active": "c83f0216556a1fea",
   "lastOpenFiles": [
-    "7-Assets/Placeholder.md",
-    "8-Templates/MapOfContentTemplate.md",
-    "8-Templates/DailyTemplate.md",
-    "8-Templates/IdeaTemplate.md",
-    "8-Templates/MeetingTemplate.md",
-    "8-Templates/Media/BookTemplate.md",
-    "5-Projects-In-Progress/FantasyWorld.md",
-    "0-Workbench-Scratch-Notes/My Political Manifesto.md",
-    "0-Workbench-Scratch-Notes/Not Standing Up Against Something.md",
-    "6-References-Bibliography/Link - Andy Mutuschak - Evergreen Notes.md"
+    "3-Main-Archive/Birds and Frogs.md",
+    "3-Main-Archive/Patriotism.md",
+    "3-Main-Archive/Learning.md",
+    "3-Main-Archive/Learn By Teaching.md",
+    "3-Main-Archive/Flow Note-Taking Method.md",
+    "3-Main-Archive/T-Notes Method.md",
+    "3-Main-Archive/Cornell Note Taking System.md",
+    "3-Main-Archive/Bikeshedding.md",
+    "3-Main-Archive/Shed Theory.md",
+    "3-Main-Archive/Software Limitations.md"
   ]
 }

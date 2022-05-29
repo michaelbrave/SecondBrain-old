@@ -1,6 +1,6 @@
 {{date:YYYY-MM-DD}}
 # {{title}}
-Status: #Daily
+Status: #TimeDaily
 Tags:
 
 

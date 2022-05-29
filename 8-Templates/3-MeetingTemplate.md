@@ -11,8 +11,11 @@ Tags:
 ## Discussion Notes
 - 
 
+## Questions 
+
 ## Action Items
 - [  ] Distribute Notes to the Team 
 - [  ] Tasks & Projects Completed, Processed or Delegated
--  [  ] Key Dates Completed or Scheduled
+- [  ] Key Dates Completed or Scheduled
 
+## Assignments

@@ -1,4 +1,4 @@
-# ToDo List
+# ToDo {{Title}}
 
 ### URGENT + IMPORTANT
 *Do it now*
@@ -23,10 +23,3 @@
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
-
-### Dailies
-*Things to do Everyday, practice things*
-- [ ] 1 Hour Work on Roblox Game
-- [ ] 1 Hour HtDP
-- [ ] 1 Hour Python Interview Prep
-
